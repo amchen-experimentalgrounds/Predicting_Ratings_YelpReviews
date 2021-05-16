@@ -17,4 +17,4 @@ It is common to include n-grams (sequences of n words) as a feature. I used 1-gr
 
 I was probably the only student to intentionally leave in punctuation (other students unintentionally left it in?). I believe other top-scoring models opted to use more advanced models, such as neural networks. Next time I do NLP tasks, I should consider that too.
 
-My final paper is included in this repository. It's not ground-breaking, but feel free to have a read if you want to see my thought process. 
+My final paper is included in this repository. It's not ground-breaking, but feel free to have a read if you want to see my thought process. The code is also included, but it's not particularly well-commented. It was mostly to show the markers that my work was original. Nonetheless, it should be more than readable.
